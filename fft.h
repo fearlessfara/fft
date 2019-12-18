@@ -1,8 +1,8 @@
 /*
  ============================================================================
- Name        : FFTCPU0.c
- Author      : Michael
- Version     :
+ Name        : fft.h
+ Author      : Faraone Christian Gennaro & Professor Michael Ryan
+ Version     : 1.0
  Copyright   : Copyright OCE Technology
  Description : Multicore FFT
 
